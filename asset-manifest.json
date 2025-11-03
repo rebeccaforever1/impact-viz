@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/impact-viz/static/css/main.fe81aa0f.css",
+    "main.css": "/impact-viz/static/css/main.a18b6ab3.css",
     "main.js": "/impact-viz/static/js/main.9709d0f2.js",
     "static/js/453.16de2368.chunk.js": "/impact-viz/static/js/453.16de2368.chunk.js",
     "static/media/LBSV_logo.png": "/impact-viz/static/media/LBSV_logo.3bc90d8d0235f19d1dda.png",
     "index.html": "/impact-viz/index.html",
-    "main.fe81aa0f.css.map": "/impact-viz/static/css/main.fe81aa0f.css.map",
+    "main.a18b6ab3.css.map": "/impact-viz/static/css/main.a18b6ab3.css.map",
     "main.9709d0f2.js.map": "/impact-viz/static/js/main.9709d0f2.js.map",
     "453.16de2368.chunk.js.map": "/impact-viz/static/js/453.16de2368.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe81aa0f.css",
+    "static/css/main.a18b6ab3.css",
     "static/js/main.9709d0f2.js"
   ]
 }
